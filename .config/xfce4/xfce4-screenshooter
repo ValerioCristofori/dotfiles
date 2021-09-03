@@ -1,7 +1,13 @@
 delay=1
-region=1
+region=3
 action=1
 show_mouse=0
 title=ArcoLinux
 timestamp=TRUE
-app=nomacs
+app=ristretto
+last_user=
+screenshot_dir=file:/home/valerio/Scrivania/screen-sabd
+last_extension=png
+enable_imgur_upload=true
+show_border=1
+

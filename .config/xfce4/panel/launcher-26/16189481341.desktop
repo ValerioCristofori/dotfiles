@@ -1,0 +1,9 @@
+[Desktop Entry]
+X-SnapInstanceName=weka-james-carroll
+Name=Weka
+Comment=Machine Learning Toolkit
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/weka-james-carroll_weka.desktop /var/lib/snapd/snap/bin/weka-james-carroll.weka
+Icon=/var/lib/snapd/snap/weka-james-carroll/47/meta/gui/weka.png
+Type=Application
+Categories=Science;Development;
+X-XFCE-Source=file:///var/lib/snapd/desktop/applications/weka-james-carroll_weka.desktop

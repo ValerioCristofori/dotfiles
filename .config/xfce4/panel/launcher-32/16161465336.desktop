@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=eclipse-java
+Comment=
+Exec=/usr/bin/eclipse-java/eclipse
+Icon=eclipse
+Path=/home/valerio/eclipse-workspace
+Terminal=false
+StartupNotify=false

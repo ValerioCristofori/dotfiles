@@ -2,42 +2,58 @@
 4.10.3+=true
 
 [/home/valerio/Scrivania/src]
-row=2
-col=0
+row=0
+col=1
 
 [/home/valerio/Scrivania/conf]
-row=4
+row=1
 col=1
 
 [/home/valerio/Scrivania/mvn_sonar_script]
-row=0
+row=6
 col=0
 
 [/home/valerio/Scrivania/dev]
-row=4
+row=5
 col=0
 
 [/home/valerio/Scrivania/magistrale]
-row=0
-col=1
+row=2
+col=0
 
 [/home/valerio/Scrivania/startbootstrap-resume-gh-pages]
-row=3
+row=4
 col=0
 
 [/home/valerio/Scrivania/client]
-row=2
-col=1
-
-[/home/valerio/Scrivania/report]
 row=1
 col=0
 
-[/home/valerio/Scrivania/sonar_script]
-row=1
+[/home/valerio/Scrivania/report]
+row=2
 col=1
 
+[/home/valerio/Scrivania/sonar_script]
+row=3
+col=0
+
 [/home/valerio/Scrivania/test]
+row=0
+col=0
+
+[2020-10-15-14-48-48-14]
+row=6
+col=1
+
+[Cestino]
+row=5
+col=1
+
+[/]
+row=4
+col=1
+
+[/home/valerio]
 row=3
 col=1
 

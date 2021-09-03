@@ -1,0 +1,34 @@
+[Desktop Entry]
+Version=1.0
+Name[it]=Tilix
+Name=Tilix
+Comment[it]=Un terminale a riquadri per Gnome
+Comment=A tiling terminal for Gnome
+Keywords[it]=shell;prompt;comando;linea di comando;cmd;
+Keywords=shell;prompt;command;commandline;cmd;
+Exec=tilix
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;TerminalEmulator;X-GNOME-Utilities;
+Icon=utilities-terminal
+DBusActivatable=true
+Actions=new-window;new-session;preferences;
+X-XFCE-Source=file:///usr/share/applications/com.gexperts.Tilix.desktop
+
+Path=
+
+[Desktop Action new-window]
+Name[it]=Nuova finestra
+Name=New Window
+Exec=tilix --action=app-new-window
+
+[Desktop Action new-session]
+Name[it]=Nuova sessione
+Name=New Session
+Exec=tilix --action=app-new-session
+
+[Desktop Action preferences]
+Name[it]=Preferenze
+Name=Preferences
+Exec=tilix --preferences

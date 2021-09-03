@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=libre office
+Comment=
+Exec=/usr/bin/libreoffice
+Icon=libreoffice-main
+Path=
+Terminal=false
+StartupNotify=false

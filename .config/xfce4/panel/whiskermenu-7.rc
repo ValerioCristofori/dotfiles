@@ -1,5 +1,5 @@
-favorites=arcolinux-welcome-app.desktop,arcolinux-tweak-tool.desktop,firefox.desktop,thunar.desktop,xfce4-terminal.desktop,conkyzen.desktop
-recent=xfce-display-settings.desktop,arcolinux-tweak-tool.desktop
+favorites=arcolinux-welcome-app.desktop,arcolinux-tweak-tool.desktop,firefox.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,conkyzen.desktop
+recent=panel-preferences.desktop,firefox.desktop,xfce-display-settings.desktop,variety.desktop,org.xfce.PanelProfiles.desktop,xfce-settings-manager.desktop,xfce4-settings-editor.desktop,arcolinux-tweak-tool.desktop,xfce-session-settings.desktop,arcolinux-welcome-app.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false
@@ -23,7 +23,7 @@ position-categories-alternate=true
 stay-on-focus-out=false
 confirm-session-command=true
 menu-width=410
-menu-height=582
+menu-height=583
 menu-opacity=80
 command-settings=xfce4-settings-manager
 show-command-settings=true

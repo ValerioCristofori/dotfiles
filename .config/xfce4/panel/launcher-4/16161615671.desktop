@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StarUML
+Comment=Project design tool
+Exec=/usr/share/staruml/pkg/staruml/opt/StarUML/staruml
+Icon=starred
+Path=/home/valerio/Documenti/staruml-works
+Terminal=false
+StartupNotify=false
