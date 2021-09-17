@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GoLang
+Comment=IDE for Go programming language
+Exec=/usr/share/GoLand-2021.2.2/bin/goland.sh
+Icon=goland
+Path=
+Terminal=false
+StartupNotify=false

@@ -46,7 +46,7 @@
       <property name="output-name" type="string" value="Primary"/>
     </property>
     <property name="panel-1" type="empty">
-      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
       <property name="background-rgba" type="array">
         <value type="double" value="1.000000"/>
         <value type="double" value="1.000000"/>
@@ -62,6 +62,7 @@
         <value type="int" value="44"/>
         <value type="int" value="45"/>
         <value type="int" value="46"/>
+        <value type="int" value="29"/>
         <value type="int" value="25"/>
         <value type="int" value="16"/>
         <value type="int" value="42"/>
@@ -82,9 +83,9 @@
         <value type="int" value="34"/>
         <value type="int" value="39"/>
         <value type="int" value="32"/>
+        <value type="int" value="33"/>
         <value type="int" value="48"/>
         <value type="int" value="43"/>
-        <value type="int" value="33"/>
         <value type="int" value="36"/>
         <value type="int" value="27"/>
         <value type="int" value="38"/>
@@ -206,7 +207,7 @@
       <property name="enable-multimedia-keys" type="bool" value="true"/>
       <property name="enable-wnck" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance1107;firefox.instance11404;firefox.instance1151;firefox.instance11861;firefox.instance1276;firefox.instance1325;firefox.instance19810;firefox.instance23644;firefox.instance2897;firefox.instance3099;firefox.instance3107;firefox.instance3650;firefox.instance3787;firefox.instance4257;firefox.instance45262;firefox.instance5090;firefox.instance7984;firefox.instance8243;firefox.instance95318;spotify"/>
+      <property name="mpris-players" type="string" value="firefox.instance1107;firefox.instance11404;firefox.instance1151;firefox.instance11861;firefox.instance1276;firefox.instance1325;firefox.instance19810;firefox.instance23644;firefox.instance2629;firefox.instance2897;firefox.instance3099;firefox.instance3107;firefox.instance3650;firefox.instance3787;firefox.instance4257;firefox.instance45262;firefox.instance5090;firefox.instance7984;firefox.instance8243;firefox.instance95318;spotify"/>
     </property>
     <property name="plugin-6" type="string" value="power-manager-plugin"/>
     <property name="plugin-7" type="string" value="separator">
@@ -247,11 +248,6 @@
     <property name="plugin-32" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16161465336.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-33" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16222045351.desktop"/>
       </property>
     </property>
     <property name="plugin-34" type="string" value="separator"/>
@@ -333,6 +329,16 @@
     <property name="plugin-48" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16209797101.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-29" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16307418691.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-33" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16310028071.desktop"/>
       </property>
     </property>
   </property>
